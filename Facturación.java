@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Facturacion {
+public class Facturación {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -40,3 +40,4 @@ public class Facturacion {
         System.out.println("¿Compra aprobada?: " + puedeComprar);
     }
 }
+
